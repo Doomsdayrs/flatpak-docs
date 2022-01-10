@@ -115,7 +115,7 @@ A minimal desktop file should contain at least the application's *name*,
 
   [Desktop Entry]
   Name=Gnome Dictionary
-  Exec=org.gnome.Dictionary
+  Exec=gnome-dictionary
   Type=Application
   Icon=org.gnome.Dictionary
   Categories=GNOME;GTK;Office;Dictionary;
